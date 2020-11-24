@@ -1,0 +1,12 @@
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\bin\Debug\musicPlayer.exe.config
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\bin\Debug\musicPlayer.exe
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\bin\Debug\musicPlayer.pdb
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.csprojAssemblyReference.cache
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.Form1.resources
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.cache
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.exe
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.pdb
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\bin\Debug\NAudio.dll
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\bin\Debug\NAudio.xml
+C:\Users\Emanuel Augusto\Desktop\C#\musicPlayer\obj\Debug\musicPlayer.csproj.CopyComplete
